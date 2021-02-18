@@ -1,5 +1,5 @@
 {
-    "name": "hakrich-tech/Form-entity-validation-exeption",
+    "name": "hakrich-tech/form-entity-validation-exeption",
     "description": "PHP FormEntityValidationExeption Framework",
     "type": "metapackage",
     "require": {
