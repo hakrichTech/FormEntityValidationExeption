@@ -1,0 +1,21 @@
+{
+    "name": "hakrich-tech/entyty-validation-exeption",
+    "description": "PHP FormEntityValidationExeption Framework",
+    "type": "metapackage",
+    "require": {
+        "hakrich-tech/object-add-on": "1.6"
+    },
+    "autoload": {
+        "psr-4": {
+          "FormEntityValidationExeption\\": "src",
+          "Form\\": "create"
+        }
+      },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hakrichTech",
+            "email": "hakeemshamavu@hakrichapp.tech"
+        }
+    ]
+}

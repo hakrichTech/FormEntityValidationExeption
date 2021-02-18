@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "c5c3b4229e6c2bc2797eec5a8dbf4110",
+    "packages": [
+        {
+            "name": "hakrich-tech/object-add-on",
+            "version": "1.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/hakrichTech/ObjectAddOn.git",
+                "reference": "f00592e555df6b1dace2bbf6bd60921f88f102fb"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/hakrichTech/ObjectAddOn/zipball/f00592e555df6b1dace2bbf6bd60921f88f102fb",
+                "reference": "f00592e555df6b1dace2bbf6bd60921f88f102fb",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "ObjectAddOn\\": "Application/DataClass",
+                    "TraitAddOn\\": "Application/Treats"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "hakrichTech",
+                    "email": "hakeemshamavu@hakrichapp.tech"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/hakrichTech/ObjectAddOn/issues",
+                "source": "https://github.com/hakrichTech/ObjectAddOn/tree/1.6"
+            },
+            "time": "2020-12-12T13:20:46+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}
